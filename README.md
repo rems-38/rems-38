@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   🌐 <a href="https://rems-corp.fr" target="_blank">rems-corp.fr</a> • 
-  💼 <a href="https://www.linkedin.com/in/rems38" target="_blank">LinkedIn</a> • 
+  💼 <a href="https://www.linkedin.com/in/remi-mazzone" target="_blank">LinkedIn</a> • 
   💻 <a href="https://github.com/rems-38" target="_blank">GitHub</a>
 </p>
 
